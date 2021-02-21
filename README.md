@@ -1,8 +1,3 @@
-[![Youtube][youtube-shield]][youtube-url]
-[![Facebook][facebook-shield]][facebook-url]
-[![Instagram][instagram-shield]][instagram-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
-
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
@@ -57,21 +52,10 @@ git pull
 
 <!-- CONTACT -->
 
-## Contact
+This repo is created as a learning purpose of the online course on NodeJS provided by Sumit Saha.
+
+## Credits
 
 Sumit Saha - [sumit@learnwithsumit.com](mailto:sumit@learnwithsumit.com)
 
-Project Link: [https://github.com/learnwithsumit/nodejs-basic-bangla](https://github.com/learnwithsumit/nodejs-basic-bangla)
-
 Youtube Channel: [https://youtube.com/LearnwithSumit](https://youtube.com/LearnwithSumit)
-
-<!-- MARKDOWN LINKS & IMAGES -->
-
-[youtube-shield]: https://img.shields.io/badge/-Youtube-black.svg?style=flat-square&logo=youtube&color=555&logoColor=white
-[youtube-url]: https://youtube.com/LearnwithSumit
-[facebook-shield]: https://img.shields.io/badge/-Facebook-black.svg?style=flat-square&logo=facebook&color=555&logoColor=white
-[facebook-url]: https://facebook.com/letslearnwithsumit
-[instagram-shield]: https://img.shields.io/badge/-Instagram-black.svg?style=flat-square&logo=instagram&color=555&logoColor=white
-[instagram-url]: https://instagram.com/learnwithsumit
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/company/learnwithsumit
